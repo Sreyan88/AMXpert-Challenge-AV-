@@ -4,5 +4,5 @@
 1. FFM(Fast Factorization Machines)
 2. Ensemble of boosting algorithms(XGBoost,LGBM,CatBoost)
 3. Extracting Feature Combinations
-4. A but of EDA and Feature Engineering
-5. Mean Encoding
+4. A bit of EDA and Feature Engineering
+5. Mean Encoding some variables
